@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="myactionColor" >#2fade7</color>
+    <color name="myactionOverColor" >#128adb</color>
+    <color name="myactionBackground">#6acdfa</color>
+    <color name="myTopColor" >#000000</color>
+    <color name="myListView">#4a4a4a</color>
+    <color name="pagebg">#63cbf9</color>
+    <color name="pagebg2">#f4d27f</color>
+    <color name="tr1">#e7e7e7</color>
+    <color name="tr2">#FFFFFF</color>
+</resources>

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">뮤썸관리자</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_section1">알림내역</string>
+    <string name="title_section2">주문내역</string>
+    <string name="title_section3">통계보고</string>
+    <string name="title_section4">환경설정</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="title_activity_load">LoadActivity</string>
+    <string name="title_activity_login">로그인</string>
+    <string name="shop_url">http://muesum.co.kr</string>
+    <string name="shopEng">muesum</string>
+    <string name="charset">euc-kr</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">이메일</string>
+    <string name="prompt_password">패스워드</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">이메일 형식이 맞지 않습니다. 확인 해주세요</string>
+    <string name="error_invalid_password">비밀번호가 너무 짭습니다. 확인해주세요</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">계정을 확인할수 없습니다.</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_login3">Sign in</string>
+    <string name="title_activity_login222">weqwe</string>
+</resources>
